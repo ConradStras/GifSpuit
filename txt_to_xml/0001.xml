@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>0001.JPEG</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>192073981</flickrid>
+	</source>
+	<owner>
+		<flickrid>tobeng</flickrid>
+		<name>Conrad Strasheim</name>
+	</owner>
+	<size>
+		<width>848</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Left</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>17</ymin>
+			<xmax>612</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
